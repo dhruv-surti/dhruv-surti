@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/dhruv-surti/dhruv-surti/main/assets/github-banner.png" width="100%" alt="Dhruv Surti banner"/>
+<img src="github-banner.png" width="100%" alt="Dhruv Surti banner"/>
 </div>
 
 <div align="center">
